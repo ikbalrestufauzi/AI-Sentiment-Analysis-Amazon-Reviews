@@ -5,8 +5,6 @@ This project demonstrates a complete analysis workflow, from data preprocessing 
 
 The project was built for learning and experimentation, with a focus on understanding how sentiment analysis works under the hood rather than treating it as a black box.
 
----
-
 ## 📦 Technologies
 
 - Python  
@@ -15,8 +13,6 @@ The project was built for learning and experimentation, with a focus on understa
 - NumPy  
 - Scikit-learn  
 - Natural Language Processing (NLP)
-
----
 
 ## 💡 Features
 
@@ -42,16 +38,12 @@ Here’s what this sentiment analysis project includes:
 - Interpreting model outputs and results
 - Analyzing trends and patterns in the dataset
 
----
-
 ## 📺 Tutorial Reference
 
 This project follows along with and expands upon a sentiment analysis tutorial that walks through the full process step by step, including data preprocessing, modeling, and evaluation.
 
 🎥 Tutorial Video:  
 https://www.youtube.com/watch?v=QpzMWQvxXWk
-
----
 
 ## 📁 Notebook
 
@@ -63,8 +55,6 @@ The notebook contains:
 - Step-by-step implementation of sentiment analysis
 - Intermediate outputs and visualizations
 - Clear, well-documented analysis code
-
----
 
 ## 🚦 Running the Project Locally
 
